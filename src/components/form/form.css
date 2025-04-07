@@ -1,0 +1,29 @@
+.form{
+    border: none;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.input{
+    background-color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.taskDescription{
+    background-color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.submit{
+    width: 100px;
+    border: none;
+    background-color: #0079BF;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}

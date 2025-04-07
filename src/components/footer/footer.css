@@ -1,0 +1,17 @@
+.footer{
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #0067A3;
+}
+.counts{
+    display: flex;
+    color: #fff;
+    font-size: 18px;
+    gap: 36px;
+}
+.who{
+    color: #fff;
+    font-size: 18px;
+}

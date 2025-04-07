@@ -1,0 +1,32 @@
+.canban{
+    display: flex;
+}
+.task_card{
+    border-radius: 10px;
+    width: 280px;
+    padding: 1rem;
+    gap: 10px;
+    display: flex; 
+    flex-direction: column;
+    background-color: #EBECF0;
+}
+.task{
+    color: black;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.task_name{
+    font-size: 18px;
+}
+.link{
+    text-decoration: none ;
+}
+.addButton{
+    border-radius: 5px;
+    width: 102px;
+    border: none;
+    background-color: #fff;
+    padding: 5px;
+    cursor: pointer;
+}
