@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useState } from 'react';
-import {ReactComponent as Close} from '../../img/Line 3.svg'
+import {ReactComponent as Close} from '../../img/Line 2.svg'
 import './task.css'
 
 
