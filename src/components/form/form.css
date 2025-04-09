@@ -18,6 +18,13 @@
     padding: 10px;
     border-radius: 5px;
 }
+.select{
+    background-color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .submit{
     width: 100px;
     border: none;

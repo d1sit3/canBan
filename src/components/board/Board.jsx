@@ -12,8 +12,8 @@ const Board = (props) => {
 		setFormVisible(!isFormVisible)
 	}
 
-	const formSubmit = (title, description) => {
-		addNewTask(title, description, type)
+	const formSubmit = (title, description, status) => {
+		addNewTask(title, description, status)
 		setFormVisible(false)
 	}
 
